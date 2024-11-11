@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **ML Projects**
 
-- 👯 I’m looking to collaborate on **on some cool Open-Source Projects**
+- 👯 I’m looking to collaborate on **some cool Open-Source Projects**
 
-- 💬 Ask me about **Python, Data Analysis & Visualizations**
+- 💬 **Python, Data Analysis & Visualizations**
 
 - ⚡ Fun fact **I can solve a rubik's cube in 30 seconds!**
 
@@ -22,9 +22,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meenal21i&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 ---
