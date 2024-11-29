@@ -22,7 +22,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meenal21i&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Meenal21i&label=Profile%20Views&color=4&icon=0&pretty=false" />
+</a>
 
 ---
 
